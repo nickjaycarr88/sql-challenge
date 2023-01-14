@@ -73,4 +73,4 @@ ORDER BY frequency DESC;
 ```
 ---
 ## Table Schema
-1[Image Link](https://github.com/nickjaycarr88/sql-challenge/blob/main/sql_challenge_schema.png)
+![Image Link](https://github.com/nickjaycarr88/sql-challenge/blob/main/schema.png)
